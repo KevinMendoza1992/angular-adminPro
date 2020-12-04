@@ -14,7 +14,7 @@ import { NopagefoundComponent } from './nopagefound/nopagefound.component';
 @NgModule({
   declarations: [
     AppComponent,
-    NopagefoundComponent,
+    NopagefoundComponent
   ],
   imports: [
     /*Consejo todo elemento que termine en Module va en imports como se ve a continuacion */
